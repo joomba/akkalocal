@@ -1,0 +1,17 @@
+Running (forked) HelloAkkaScala 
+Starting ProtobufTraceSender:
+Starting ProtobufTraceSender:
+ProtobufTraceSender: trying to connect - localhost/127.0.0.1:28667
+ProtobufTraceSender: CONNECTED to collector - localhost/127.0.0.1:28667
+1428348534229
+Time: 1428348534333
+Время передачи сообщения (303 байта) составило: 104 мс
+1428348534357
+Time: 1428348534379
+Время передачи сообщения (64 кб) составило: 22 мс
+1428348534387
+Time: 1428348534436
+Время передачи сообщения (1.4 мб) составило: 49 мс
+1428348534436
+Time: 1428348535285
+Время передачи сообщения (16.5 мб) составило: 849 мс
